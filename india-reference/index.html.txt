@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>India Static Data Hub</title>
+    <meta name="description" content="India static information like PIN codes, IFSC codes, RTO codes, STD codes, holidays and more.">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <h1>🇮🇳 India Static Data Hub</h1>
+    <p>Reliable & Permanent Information of India</p>
+</header>
+
+<nav>
+    <a href="data/pin-codes.html">PIN Codes</a>
+    <a href="data/ifsc-codes.html">IFSC Codes</a>
+    <a href="data/rto-codes.html">RTO Codes</a>
+    <a href="data/std-codes.html">STD Codes</a>
+    <a href="data/emergency-numbers.html">Emergency</a>
+    <a href="data/holidays.html">Holidays</a>
+</nav>
+
+<section class="content">
+    <h2>Welcome</h2>
+    <p>This website provides verified, static and evergreen information related to India.</p>
+
+    <ul>
+        <li>✔ PIN Codes</li>
+        <li>✔ Bank IFSC Codes</li>
+        <li>✔ RTO Codes</li>
+        <li>✔ STD Codes</li>
+        <li>✔ Emergency Numbers</li>
+        <li>✔ National Information</li>
+    </ul>
+</section>
+
+<footer>
+    <p>© 2025 India Static Data | Made for public use</p>
+</footer>
+
+</body>
+</html>
