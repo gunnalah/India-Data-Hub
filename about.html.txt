@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About - India Reference Hub</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<h2>About This Website</h2>
+<p>
+India Reference Hub provides permanent, evergreen Indian public information
+that does not change frequently. This website is designed as a static reference
+portal for students, citizens, and exam aspirants.
+</p>
+
+<p>No daily updates. No tracking. Simple & fast.</p>
+
+<a href="index.html">← Back to Home</a>
+
+</body>
+</html>
