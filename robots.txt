@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gunnalah.github.io/india-data-hub/sitemap.xml
